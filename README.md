@@ -6,3 +6,4 @@ I have created a website of a portfolio about myself. I will use this website fo
 # Link To Website
 https://iamjakes.github.io/Jake-Portfolio/
 # Screenshot of Website
+<img width="239" alt="Screen Shot 2022-07-27 at 10 31 38 PM" src="https://user-images.githubusercontent.com/107268998/181414582-ebaffddf-b841-4e22-aa69-48b3bb469489.png">
